@@ -15,13 +15,7 @@
 [![][semaphoreci img]][semaphoreci]
 [![][azure img]][azure]
 [![][error prone img]][error prone]
-[![][pitest img]][pitest]
-[![][checker framework img]][checker framework]
-[![][dependabot img]][dependabot]
-[![][release notes/version img]][release notes/version]
-[![][closed issues img]][closed issues]
-[![][link check img]][link check]
-[![][milestone img]][milestone]
+[![][pitest img]][pitest
 
 [![][mavenbadge img]][mavenbadge]
 
